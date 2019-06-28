@@ -10,6 +10,12 @@ public class Sp02ItemserviceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Sp02ItemserviceApplication.class, args);
 	}
+<<<<<<< HEAD
 //111111111777
 	//查询
+=======
+//111111111
+	//33333355212
+	//444
+>>>>>>> refs/heads/a1
 }
